@@ -1,0 +1,40 @@
+const trainingData = [
+    {
+        employeeId: '1',
+        date: 'October 10 2025',
+        course: 'Radio',
+        lastName: 'Joseph',
+        expirationDate: 'October 10 2026',
+        location: 'Training Centre 1',
+        topic: 'Pistol',
+        instructor: 'Kite Kennedy',
+        hours: '12',
+        remarks: '--',
+    },
+    {
+        employeeId: '2',
+        date: 'October 12 2025',
+        course: 'Body Camera',
+        lastName: 'Clark',
+        expirationDate: 'October 12 2026',
+        location: 'Medical 1',
+        topic: 'Life Support',
+        instructor: 'Florence Terz',
+        hours: '61',
+        remarks: 'Good',
+    },
+    {
+        employeeId: '3',
+        date: 'October 8 2025',
+        course: 'Tom M. Riddle',
+        lastName: 'Smith',
+        expirationDate: 'October 8 2026',
+        location: 'Air Squadron 1',
+        topic: 'Maneuvering',
+        instructor: 'James Smith',
+        hours: '65',
+        remarks: 'Excellent Parti',
+    },
+];
+
+export default trainingData;
